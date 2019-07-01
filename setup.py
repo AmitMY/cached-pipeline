@@ -1,9 +1,9 @@
 from distutils.core import setup
 
 setup(
-    name='pipeline',
+    name='cached-pipeline',
     packages=['cached-pipeline'],
-    version='0.1',
+    version='0.2',
     license='MIT',
     description='This class manages your runtime components in terms of order and caching.',
     author='Amit Moryossef',
